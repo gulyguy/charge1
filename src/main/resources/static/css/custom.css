@@ -1,0 +1,52 @@
+
+/* -- Header -- */
+.boxed-btn4 {
+    padding:5px 5px 5px 5px;
+}
+/* --// Header -- */
+
+/* -- content -- */
+.field_custom {
+    margin-bottom:20px;
+}
+.field_custom span {
+    display:inline-block;
+    vertical-align:top;
+}
+
+.field_custom .field_divide {
+    display:table;
+    height:40px;
+}
+.field_custom .field_divide span {
+    display: table-cell;
+    vertical-align:middle;
+    padding-left:20px;
+
+}
+.field_custom .field_divide div {
+    display:inline-block;
+    vertical-align:top;
+}
+.field_custom .field_rad_mid div {
+    vertical-align:middle;
+}
+.field_custom .field_rad_mid span {
+    vertical-align:text-top;
+    padding-right:5px;
+}
+
+.def_mar {
+    margin-bottom:30px;
+}
+.def_lit_mar {
+    margin-bottom:10px;
+}
+
+
+
+/* -- //content -- */
+
+/* -- footer -- */
+
+/* -- //footer -- */
